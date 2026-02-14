@@ -1,6 +1,6 @@
 # AIN Helper
 
-[![Version](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/twiceKim/AIN_Helper/releases)
+[![Version](https://img.shields.io/badge/version-1.1.4-blue.svg)](https://github.com/twiceKim/AIN_Helper/releases)
 
 전투분석을 위한 DPS 미터기
 
